@@ -11,11 +11,15 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Para ejecutar mis juegos desde el codigo base (En caso de que lo desees) nesesitaras un programa que soporte C++, aqui te dejo algunos que utilizo:_
 
-```
-Para ejecutar mi juego desde el codigo nesesitaras un programa que soporte C++
-```
+* [Dev-C++](https://www.bloodshed.net) - Un poderoso programa para crear apps a partir del lenguage C# y C++ con librerias incluidas - Recomendado por mi
+* [Visual Studio Code](https://code.visualstudio.com) - Un programa muy estable con capacidad de soporte para muchos lenguages
+* [Sublime Text](https://www.sublimetext.com) - Un programa compacto y facil de utilizar
+* [Notepad++](https://notepad-plus-plus.org) - Un programa con una amplia gama de lectura para diversos lenguajes
+* [Atom](https://atom.io) - Un programa ideal para los expertos en programación
+
+_Esos son algunos que recomiendo, si tienes otro que soporte C++ no dudes en usarlo_
 
 ### Instalación 🔧
 
