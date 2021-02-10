@@ -1,6 +1,6 @@
 # InputGames
 
-_Este es mi primer proyecto en GitHub, escrito en C++, estos son una serie de pequeños juegos creador por mi._
+_Este es mi primer proyecto en GitHub, escrito en C++, estos son una serie de pequeños juegos creados por mi y por la comunidad._
 
 ## Comenzando 🚀
 
@@ -85,23 +85,17 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+_Ayudame con este trabajo en nacimiento, si eres creador de juegos en C++ no dudes en incluir tu aplicacion aqui_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+* **KitsuneCode** - *Trabajo Inicial* - [villanuevand](https://github.com/KitsuneCode)
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (BSD 2003) - mira el archivo [LICENSE](LICENSE) para detalles
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+_Por ahora no hay agradecimientos, pero si quieres ayudarme no dudare en escribirte en este lugar, esta reservado para ti :)_
 
 
 
