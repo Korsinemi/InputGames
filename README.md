@@ -126,7 +126,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Ayudame con este trabajo en nacimiento, si eres creador de juegos en C++ no dudes en incluir tu aplicacion aqui_
 
-* **KitsuneCode** - *Trabajo Inicial* - [KitsuneCode](https://github.com/KitsuneCode)
+* **KitsuneCode** - *Trabajo Inicial* - [KitsuneCode](https://github.com/KitsuneCode/Info)
 
 ## Licencia 📄
 
