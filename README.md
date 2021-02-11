@@ -59,14 +59,14 @@ int main()
   cout << "Hola, " << name << "!\n";
 }
 ```
-_Este programa te preguntara tu nombre, despues de compiLar aparecera esto en la consola
+_Este programa te preguntara tu nombre, despues de compiLar aparecera esto en la consola_
 ```
 Cual es tu nombre?
 ```
 _Cuando escribas tu respuesta el programa respondera con esto_
 ```
 Cual es tu nombre? KitsuneCode
-Holla, KitsuneCode!
+Hola, KitsuneCode!
 ```
 _Y asi se cierra el programa_
 
@@ -104,7 +104,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/KitsuneCode/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](https://github.com/KitsuneCode/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Wiki 📖
 
