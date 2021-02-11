@@ -25,8 +25,7 @@ _Esos son algunos que recomiendo, si tienes otro que soporte C++ no dudes en usa
 
 ### Instalación 🔧
 
-_Esta es una breve explicacion de como funciona una aplicacion basica_
-
+_Esta es una breve explicacion de como funciona una aplicacion basica en C++_
 ```
 //Ejemplo de app
 
@@ -40,14 +39,36 @@ int main ()
     return 0;
 }
 ```
-
 _Despues de compilar el codigo base la consola arrojara lo siguiente:_
-
 ```
 Hola, mundo
 ```
+_Y asi finaliza la aplicación, otro ejemplo un poco mas avanzado es este:_
+```
+// Un programa mas complejo UwU
+#include <iostream>
+#include <string>
 
-_Y asi finaliza la aplicación_
+using namespace std:
+
+int main()
+{
+  string name;
+  cout << "Cual es tu nombre? ";
+  getline (cin, name);
+  cout << "Hola, " << name << "!\n";
+}
+```
+_Este programa te preguntara tu nombre, despues de compiLar aparecera esto en la consola
+```
+Cual es tu nombre?
+```
+_Cuando escribas tu respuesta el programa respondera con esto_
+```
+Cual es tu nombre? KitsuneCode
+Holla, KitsuneCode!
+```
+_Y asi se cierra el programa_
 
 ## Ejecutando las pruebas ⚙️
 
