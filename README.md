@@ -112,7 +112,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://github.com/KitsuneCode/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](https://github.com/KitsuneCode/InputGames/blob/General/CONTRIBUTING.md) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Wiki 📖
 
@@ -124,7 +124,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-_Ayudame con este trabajo en nacimiento, si eres creador de juegos en C++ no dudes en incluir tu aplicacion aqui_
+_Ayudame con este trabajo en nacimiento, si eres creador de juegos en C++ no dudes en incluir tu aplicacion o colaborarme y te pondre aqui_
 
 * **KitsuneCode** - *Trabajo Inicial* - [KitsuneCode](https://github.com/KitsuneCode/Info)
 
