@@ -116,7 +116,7 @@ Por favor lee el [CONTRIBUTING.md](https://github.com/KitsuneCode/InputGames/blo
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/KitsuneCode/InputGames/wiki)(Aun es un trabajo en proceso)
 
 ## Versionado 📌
 
