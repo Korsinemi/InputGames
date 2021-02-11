@@ -25,7 +25,12 @@ _Esos son algunos que recomiendo, si tienes otro que soporte C++ no dudes en usa
 
 ### Instalación 🔧
 
+_Antes de continuar asegurate de tener todas las librerias requeribles, de lo contrario instalalas o no funcionara_
+
+## Ejecutando la aplicación 💬
+
 _Esta es una breve explicacion de como funciona una aplicacion basica en C++_
+
 ```
 //Ejemplo de app
 
@@ -69,6 +74,9 @@ Cual es tu nombre? KitsuneCode
 Hola, KitsuneCode!
 ```
 _Y asi se cierra el programa_
+
+
+
 
 ## Ejecutando las pruebas ⚙️
 
